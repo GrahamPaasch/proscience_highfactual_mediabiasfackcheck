@@ -1,19 +1,19 @@
 # proscience_highfactual_mediabiasfackcheck
 A pruned list of websites from this master list: https://mediabiasfactcheck.com/pro-science/. All site without the high-factual rating have been removed.
 
-https://www.airspacemag.com/ \n
-https://www.aap.org/en-us/Pages/Default.aspx \n
-https://www.aaas.org/ \n
-https://www.agu.org/ \n
-https://www.ajaonline.org/ \n
-https://ajph.aphapublications.org/ \n
-https://www.aps.org/
-https://www.americanscientist.org/
-https://adaa.org/
-https://www.archaeology.org/
-https://astronomy.com/
-https://autisticadvocacy.org/
-https://www.biomedcentral.com/
+https://www.airspacemag.com/  
+https://www.aap.org/en-us/Pages/Default.aspx/  
+https://www.aaas.org/  
+https://www.agu.org/  
+https://www.ajaonline.org/  
+https://ajph.aphapublications.org/  
+https://www.aps.org/  
+https://www.americanscientist.org/  
+https://adaa.org/  
+https://www.archaeology.org/  
+https://astronomy.com/  
+https://autisticadvocacy.org/  
+https://www.biomedcentral.com/  
 https://apsa.org/
 https://www.apa.org/
 https://www.cdc.gov/
