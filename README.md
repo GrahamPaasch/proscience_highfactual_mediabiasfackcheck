@@ -68,3 +68,9 @@ https://watchers.news/
 https://www.verywellhealth.com/  
 https://public.wmo.int/en  
 https://www.zmescience.com/  
+https://skeptoid.com/
+https://www.sciencenews.org/
+https://www.sciencemag.org/
+https://climatefeedback.org/
+https://sciencebasedmedicine.org/
+https://www.psypost.org/
